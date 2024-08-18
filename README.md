@@ -1,1 +1,1 @@
-## Sage Image Presenter
+## SAGE2 Image Presenter
