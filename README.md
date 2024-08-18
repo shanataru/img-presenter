@@ -1,2 +1,1 @@
-# img-presenter
-Sage image presenter
+## Sage Image Presenter
