@@ -1,0 +1,14 @@
+{
+  "name": "image_presenter",
+  "version": "1.0.0",
+  "main": "image_presenter.js",
+  "devDependencies": {
+    "eslint": "latest"
+  },
+  "scripts": {
+    "lint": "eslint -c eslintrc testapp.js"
+  },
+  "author": "Giang Chau Nguyenova <nguyegia@fit.cvut.cz>",
+  "license": "BSD-2-Clause",
+  "description": "SAGE2 application image_presenter"
+}
